@@ -1,0 +1,17 @@
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/AgenciaDeViagem
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/AgenciaDeViagem.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/AgenciaDeViagem.runtimeconfig.json
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/AgenciaDeViagem.pdb
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/MySqlConnector.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Npgsql.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Pomelo.EntityFrameworkCore.MySql.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/bin/Release/net8.0/publish/AgenciaDeViagem.deps.json
