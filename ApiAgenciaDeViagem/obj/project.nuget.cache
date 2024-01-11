@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWmnsvE6C1WQt2kZ0tbvg8FtaT8d63N5lsecwjwpbmM6B9L3Bd3VsQ1CkiL5Au3O6wxKgC6gCgLfmzNW7yGExw==",
+  "dgSpecHash": "GTQ794OoHt49dk5h+TQDPl7WUSrDQwmWQOi5PErwr+OuROGad3bUydhKwDjKRMn0ddCEx0HN1Gq8Ow7fZSTfMA==",
   "success": true,
-  "projectFilePath": "/home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/AgenciaDeViagem.csproj",
+  "projectFilePath": "/home/joao/entregar_final_modulo6-API_DotNet/ApiAgenciaDeViagem/AgenciaDeViagem.csproj",
   "expectedPackageFiles": [
     "/home/joao/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/joao/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",

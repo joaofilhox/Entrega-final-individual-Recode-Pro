@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AgenciaDeViagem
-build_property.ProjectDir = /home/joao/entregar_final_modulo6-API_DotNetC#/ApiAgenciaDeViagem/
+build_property.ProjectDir = /home/joao/entregar_final_modulo6-API_DotNet/ApiAgenciaDeViagem/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,63 @@
+.hero {
+  position: relative;
+  height: 60vh;
+  max-height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://www.segurospromo.com.br/blog/wp-content/uploads/2021/11/Nordeste-brasileiro.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+}
+
+.overlay {
+  background: linear-gradient(rgba(10, 31, 70, 0.7), rgba(10, 31, 70, 0.7)),
+              url("https://www.segurospromo.com.br/blog/wp-content/uploads/2021/11/Nordeste-brasileiro.jpg");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.overlay h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.overlay h1 span {
+  color: #a82743;
+}
+
+.overlay p {
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+  color: #ddd;
+}
+
+.btn {
+  font-size: 1.25rem;
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #a82743;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #8c1b35;
+}

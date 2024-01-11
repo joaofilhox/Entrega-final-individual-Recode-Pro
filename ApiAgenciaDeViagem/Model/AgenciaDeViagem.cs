@@ -8,15 +8,15 @@ namespace AgenciaDeViagem.Model
         public int Id { get; set; }
 
         [Column("destino_name")]
-        public string DestinoName { get; set; }
+        public string? DestinoName { get; set; }
 
         [Column("destino_genre")]
-        public string DestinoGenre { get; set; }
+        public string? DestinoGenre { get; set; }
 
         [Column("destino_url")]
-        public string DestinoURL { get; set; }
+        public string? DestinoURL { get; set; }
 
         [Column("destino_price")]
-        public decimal DestinoPrice { get; set; }
+        public decimal? DestinoPrice { get; set; }
     }
 }
