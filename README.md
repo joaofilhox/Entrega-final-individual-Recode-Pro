@@ -18,4 +18,6 @@ pelos encantos do Nordeste brasileiro.
 - **Banco de Dados:**
   - PostgreSQL
 
+## Demonstração do Site:
 
+![Gravação de tela de 10-01-2024 23_26_13](https://github.com/joaofilhox/Entrega-final-individual-Recode-Pro/assets/117484929/e2525154-ef97-41ad-aa2c-0d0b512543a2)
